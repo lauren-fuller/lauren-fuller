@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I’m currently learning git and python :snake:
+## Fun fact: My favorite movie is Holes with Shia Labeouf.
 
 <!--
 **lauren-fuller/lauren-fuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
